@@ -30,20 +30,25 @@
 
 ## 刊行物
 
-[技術書典「こぴみずむ」公式サークルページ](https://techbookfest.org/organization/5zdy9h5eA5kDzByP9rserV) に表示されている書籍のみを掲載します（2026-10-29確認）。制作中・未登録の作品は載せません。
+[技術書典「こぴみずむ」公式サークルページ](https://techbookfest.org/organization/5zdy9h5eA5kDzByP9rserV) に掲載されている**8冊のみ**を掲載しています（2026-10-29確認）。制作中・未登録の作品は載せません。
 
-| 書名 | 内容・初出 |
-| --- | --- |
-| [自動化の魔法使い～プログラミング研修を自動化しよう！～](https://techbookfest.org/product/k2Sv42UfYis9u62Vhb6wWS) | 演習型プログラミング研修の自動化。技術書典15 |
-| [エンジニアが知るべき ～IT業界の収益モデル～](https://techbookfest.org/product/n7D9rGXjVMDTz12gRpPsTd) | SES・受託・自社サービスなどの収益構造。技術書典16 |
-| [プログラミングで動画作成！～プログラミングだけで始める動画作成～](https://techbookfest.org/product/gAAwW0eBWizSZwpfpx0P0e) | Python・Colabなどを使った動画制作。技術書典17 |
-| [今日もどこかが炎上中](https://techbookfest.org/product/jpDZ9t7FT3jqmPPpUza3Nw) | IT現場の失敗事例を会話劇と解説で紹介。技術書典18 |
-| [AIを会話で終わらせない](https://techbookfest.org/product/d6KG5sK5G0h0ju43zgcDp) | AIの回答を検査・修正・再利用できる成果物にする。技術書典21 |
-| [AI開発、雑にやると死ぬ](https://techbookfest.org/product/cuZVDbE6DRpCGZcGzf7zGR) | AIを使っても壊れにくい開発設計。技術書典20 |
-| [AI に考えさせろ！作らせろ！](https://techbookfest.org/product/9kNDbFSZF72V8SfTVcjEVW) | プロンプト設計・AI協働・創造の実践。技術書典19 |
-| [兄が失踪しまして](https://techbookfest.org/product/vVweBPpfUhP4sHban1qe8a) | 家族の失踪を題材とした実話ベースの作品。技術書典16 |
+サイトの各書籍カードには、技術書典が提供する公式OGP画像を表示します。**画像の実体は技術書典側にあり、このRepositoryには複製保存していません。**
 
-掲載は技術書典ページ上に作品情報が存在することを示し、個々の在庫・購入可否を保証するものではありません。購入条件は各商品ページをご確認ください。
+| 書名 | 初出の技術書典 | イベント開催開始日 | ページ数 | 正式な発行日 |
+| --- | :---: | --- | ---: | --- |
+| [自動化の魔法使い～プログラミング研修を自動化しよう！～](https://techbookfest.org/product/k2Sv42UfYis9u62Vhb6wWS) | 15 | 2023-11-11 | 65 | 未確認 |
+| [エンジニアが知るべき ～IT業界の収益モデル～](https://techbookfest.org/product/n7D9rGXjVMDTz12gRpPsTd) | 16 | 2024-05-25 | 37 | 未確認 |
+| [プログラミングで動画作成！～プログラミングだけで始める動画作成～](https://techbookfest.org/product/gAAwW0eBWizSZwpfpx0P0e) | 17 | 2024-11-02 | 71 | 未確認 |
+| [今日もどこかが炎上中](https://techbookfest.org/product/jpDZ9t7FT3jqmPPpUza3Nw) | 18 | 2025-05-31 | 66 | 未確認 |
+| [AIを会話で終わらせない](https://techbookfest.org/product/d6KG5sK5G0h0ju43zgcDp) | 21 | 2026-11-21（予定） | 137 | 未確認 |
+| [AI開発、雑にやると死ぬ](https://techbookfest.org/product/cuZVDbE6DRpCGZcGzf7zGR) | 20 | 2026-04-11 | 74 | 未確認 |
+| [AI に考えさせろ！作らせろ！](https://techbookfest.org/product/9kNDbFSZF72V8SfTVcjEVW) | 19 | 2025-11-15 | 62 | 未確認 |
+| [兄が失踪しまして](https://techbookfest.org/product/vVweBPpfUhP4sHban1qe8a) | 16 | 2024-05-25 | 30 | 未確認 |
+
+**注意**：この表の開催開始日は**書籍自体の発行日ではありません**。各商品ページに正式な発行日の明記を確認できなかったため、発行日は未確認としています。奥付等で日付を確認でき次第追記します。技術書典21は2026年11月21日開始予定です。
+
+- 画像・書籍情報：各作品の技術書典商品ページ
+- 開催日：技術書典公式ブログの各回開催告知（[15](https://blog.techbookfest.org/2023/08/18/tbf15-announcement/)・[16](https://blog.techbookfest.org/2024/02/02/tbf16-announcement/)・[17](https://blog.techbookfest.org/2024/08/05/tbf17-announcement/)・[18](https://blog.techbookfest.org/2025/02/01/tbf18-announcement/)・[19](https://blog.techbookfest.org/2025/08/13/tbf19-announcement/)・[20](https://blog.techbookfest.org/2026/01/14/tbf20-announcement/)・[21](https://blog.techbookfest.org/2026/06/18/tbf21-announcement/)）
 
 ## 公開範囲とライセンス
 
