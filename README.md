@@ -10,9 +10,9 @@
 
 ## 公式サイト
 
-- **GitHub Pages公開準備**： [こぴみずむ サークルサイト](https://c-a-p-engineer.github.io/copimism/)
+- **GitHub Pages（公開中）**： [こぴみずむ サークルサイト](https://c-a-p-engineer.github.io/copimism/)
 - サイト本体：[`docs/index.html`](docs/index.html)
-- Pages設定：**Settings → Pages → Deploy from a branch → `master` / `docs` → Save**（初回の有効化が必要）
+- Pagesの公開元：**`master` ブランチの `/docs`**（GitHub Settings → Pages）
 
 サイトはフレームワーク・追加ビルド不要の静的HTML/CSSです。外部解析サービス・広告タグは導入しません。
 
@@ -58,6 +58,15 @@
 - **書籍本文・表紙・第三者素材**：上記MITの対象外。著作権者または各素材提供元の条件に従います。
 
 単なるリンクや作品名の紹介など、法令上認められる範囲の行為まで制限するものではありません。詳しくは [コンテンツの利用条件](CONTENT-POLICY.md) を参照してください。
+
+## 更新・運用ルール
+
+- [AGENTS.md](AGENTS.md) — AIエージェントと編集担当者の公開・編集ルール
+- [docs/MAINTENANCE.md](docs/MAINTENANCE.md) — サイト・刊行物・ロゴの更新手順と確認項目
+- [CONTRIBUTING.md](CONTRIBUTING.md) — 誤字・不具合・書誌情報の修正提案
+- [CONTENT-POLICY.md](CONTENT-POLICY.md) — ロゴ・文章・画像の権利と利用条件
+
+Public Repositoryのため、投稿内容はコミット履歴を含めて公開されます。未公開の制作情報・個人情報・認証情報を混入させないでください。
 
 ## 連絡・協力
 
