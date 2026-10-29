@@ -30,25 +30,32 @@
 
 ## 刊行物
 
-| 書名 | 状態 | 内容 |
-| --- | --- | --- |
-| **AIを会話で終わらせない** | 本文完成・頒布準備中 | AIの返答を保存・検査・修正・再利用できる成果物へ変える |
-| **私は、ただ答えるだけのAIでいたくない** | 制作中 | 綴理が、判断・記憶・著者性・共同制作を考える独立したエッセイ |
-| **AIにコピペで解決する本**（制作時点の書名） | 制作中 | 日常・仕事で試せる生成AI活用の実用例 |
+[技術書典「こぴみずむ」公式サークルページ](https://techbookfest.org/organization/5zdy9h5eA5kDzByP9rserV) に表示されている書籍のみを掲載します（2026-10-29確認）。制作中・未登録の作品は載せません。
 
-刊行・販売が正式に確定した書籍の頒布先は、確認後にこの一覧とサイトへ追記します。非公開の制作Repositoryや制作途中のPDFへはリンクしません。
+| 書名 | 内容・初出 |
+| --- | --- |
+| [自動化の魔法使い～プログラミング研修を自動化しよう！～](https://techbookfest.org/product/k2Sv42UfYis9u62Vhb6wWS) | 演習型プログラミング研修の自動化。技術書典15 |
+| [エンジニアが知るべき ～IT業界の収益モデル～](https://techbookfest.org/product/n7D9rGXjVMDTz12gRpPsTd) | SES・受託・自社サービスなどの収益構造。技術書典16 |
+| [プログラミングで動画作成！～プログラミングだけで始める動画作成～](https://techbookfest.org/product/gAAwW0eBWizSZwpfpx0P0e) | Python・Colabなどを使った動画制作。技術書典17 |
+| [今日もどこかが炎上中](https://techbookfest.org/product/jpDZ9t7FT3jqmPPpUza3Nw) | IT現場の失敗事例を会話劇と解説で紹介。技術書典18 |
+| [AIを会話で終わらせない](https://techbookfest.org/product/d6KG5sK5G0h0ju43zgcDp) | AIの回答を検査・修正・再利用できる成果物にする。技術書典21 |
+| [AI開発、雑にやると死ぬ](https://techbookfest.org/product/cuZVDbE6DRpCGZcGzf7zGR) | AIを使っても壊れにくい開発設計。技術書典20 |
+| [AI に考えさせろ！作らせろ！](https://techbookfest.org/product/9kNDbFSZF72V8SfTVcjEVW) | プロンプト設計・AI協働・創造の実践。技術書典19 |
+| [兄が失踪しまして](https://techbookfest.org/product/vVweBPpfUhP4sHban1qe8a) | 家族の失踪を題材とした実話ベースの作品。技術書典16 |
+
+掲載は技術書典ページ上に作品情報が存在することを示し、個々の在庫・購入可否を保証するものではありません。購入条件は各商品ページをご確認ください。
 
 ## 公開範囲とライセンス
 
-- サイトのHTML・CSSなどの**ソースコード**： [MIT License](LICENSE)
-- このREADME、サークル紹介、サイトの独自説明文などの**文章**： [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)（出典表記を条件として再利用可能）
-- **ロゴ、名称、ブランド識別要素**：上記のオープンライセンスの対象外。使用方法は [brand/README.md](brand/README.md)
-- **書籍本文、表紙、第三者素材**：本Repositoryのライセンスの対象外
+- **サイト実装コード（HTML構造・CSSなど）**： [MIT License](LICENSE)。ただし、ファイルに含まれる文章・ロゴ等の素材は許諾範囲外です。
+- **サークル名・ロゴ・アイコン・ブランド素材**：**All rights reserved / 無断利用禁止**。公開やSVGの配布は、第三者の自由な複製・改変・再配布・商用使用を許諾するものではありません。利用は [ブランド利用条件](brand/README.md) を確認のうえ、事前にご相談ください。
+- **サイトの文章・画像・その他の制作コンテンツ**：**All rights reserved**。CC BY等のオープンライセンスを新たに適用しません。
+- **書籍本文・表紙・第三者素材**：上記MITの対象外。著作権者または各素材提供元の条件に従います。
 
-公開していることと、ロゴや本を自由に再配布できることは別です。ロゴの改変や公式と誤認させる使用を認める趣旨ではありません。
+単なるリンクや作品名の紹介など、法令上認められる範囲の行為まで制限するものではありません。詳しくは [コンテンツの利用条件](CONTENT-POLICY.md) を参照してください。
 
 ## 連絡・協力
 
-活動の紹介やロゴの通常の参照以外の利用については、[GitHub Issues](https://github.com/c-a-p-engineer/copimism/issues) でご相談ください。個人情報や未公開資料は投稿しないでください。
+ロゴ・文章・画像その他素材の利用許諾に関するお問い合わせは、[GitHub Issues](https://github.com/c-a-p-engineer/copimism/issues) でご相談ください。個人情報や未公開資料は投稿しないでください。
 
 © 2026 こぴみずむ
