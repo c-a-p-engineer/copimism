@@ -22,9 +22,20 @@ THE SOFTWARE.
 
 ---
 
-Scope note: MIT licensing above applies to site implementation code (for example
-docs/index.html markup and docs/styles.css styles), but DOES NOT grant permission
-to use the COPIMISM/こぴみずむ brand name or logos as a source identifier,
-or any rights in book contents, third-party works, or other excluded content.
-Site original prose is separately offered under CC BY 4.0 per README.md.
-See brand/README.md for logo usage.
+Scope and exclusions:
+This MIT license covers only the original website implementation code,
+including HTML structure and CSS in docs/. It does NOT license:
+- The COPIMISM / こぴみずむ brand name, logos, icons, graphics, or related brand assets.
+- Textual content (including original website prose and README), illustrations,
+  photographs, cover art, books, or other creative content.
+- Third-party materials.
+
+Those contents are all rights reserved unless expressly and separately licensed
+by the applicable rights holder. In mixed HTML files, the code is MIT-licensed
+but the editorial text and embedded graphics are excluded from the MIT grant.
+See CONTENT-POLICY.md and brand/README.md.
+
+A previous version of the public website/README stated that certain original
+text was under CC BY 4.0. This update does not purport to revoke licenses
+already validly granted for prior versions. The current and future content
+is not newly offered under CC BY 4.0.
