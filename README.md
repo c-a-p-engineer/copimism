@@ -30,12 +30,15 @@
 
 ## 刊行物
 
-[技術書典「こぴみずむ」公式サークルページ](https://techbookfest.org/organization/5zdy9h5eA5kDzByP9rserV) に掲載されている**8冊のみ**を掲載しています（2026-10-29確認）。制作中・未登録の作品は載せません。
+[技術書典「こぴみずむ」公式サークルページ](https://techbookfest.org/organization/5zdy9h5eA5kDzByP9rserV) に掲載されている**11冊**を掲載しています（2026-11-16確認）。制作中・未登録の作品は載せません。
 
 サイトの各書籍カードには、技術書典が提供する公式OGP画像を表示します。**画像の実体は技術書典側にあり、このRepositoryには複製保存していません。**
 
 | 書名 | 初出の技術書典 | イベント開催開始日 | ページ数 | 正式な発行日 |
 | --- | :---: | --- | ---: | --- |
+| [私は、ただ答えるだけのAIでいたくない](https://techbookfest.org/product/rNcxAWCrbXQU6q98nLWD8T) | 21 | 2026-11-21（予定） | 88 | 未確認 |
+| [えいちを求めて、叡智に至る。](https://techbookfest.org/product/4MG7EcRAi226dSWg2yX4P4) | 21 | 2026-11-21（予定） | 259 | 未確認 |
+| [AIハーネスもAIに丸投げ！](https://techbookfest.org/product/1NTjuKRyttbCdaRrhntLXW) | 21 | 2026-11-21（予定） | 88 | 未確認 |
 | [自動化の魔法使い～プログラミング研修を自動化しよう！～](https://techbookfest.org/product/k2Sv42UfYis9u62Vhb6wWS) | 15 | 2023-11-11 | 65 | 未確認 |
 | [エンジニアが知るべき ～IT業界の収益モデル～](https://techbookfest.org/product/n7D9rGXjVMDTz12gRpPsTd) | 16 | 2024-05-25 | 37 | 未確認 |
 | [プログラミングで動画作成！～プログラミングだけで始める動画作成～](https://techbookfest.org/product/gAAwW0eBWizSZwpfpx0P0e) | 17 | 2024-11-02 | 71 | 未確認 |
